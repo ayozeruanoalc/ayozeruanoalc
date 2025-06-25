@@ -22,7 +22,7 @@
 <h3>Programming Languages</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cs,cpp,java,php,dart,py,js,bash&perline=10" />
+    <img src="https://skillicons.dev/icons?i=py,java,r,c,html&perline=10" />
   </a>
 </p>
 
@@ -30,7 +30,7 @@
 <h3>Frameworks & Libraries</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,nodejs,dotnet,gtk,materialui&perline=10" />
+    <img src="https://skillicons.dev/icons?i=sklearn,opencv&perline=10" />
   </a>
 </p>
 
@@ -38,7 +38,7 @@
 <h3>Databases</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase&perline=10" />
+    <img src="https://skillicons.dev/icons?i=sqlite,mysql&perline=10" />
   </a>
 </p>
 
@@ -46,7 +46,7 @@
 <h3>Version Control & DevOps</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker&perline=10" />
+    <img src="https://skillicons.dev/icons?i=github,git,maven&perline=10" />
   </a>
 </p>
 
@@ -54,7 +54,7 @@
 <h3>IDEs & Tools</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,eclipse,vscode,postman,linux&perline=10" />
+    <img src="https://skillicons.dev/icons?i=idea,vscode,anaconda,pycharm,windows,linux&perline=10" />
   </a>
 </p>
 
@@ -62,6 +62,6 @@
 <h3>Other</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,ai,ps&perline=10" />
+    <img src="https://skillicons.dev/icons?i=md,discord&perline=10" />
   </a>
 </p>
