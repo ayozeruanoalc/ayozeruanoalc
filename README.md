@@ -20,9 +20,18 @@
 
 <!-- Programming Languages -->
 <h3>Programming Languages</h3>
+<strong>Procifient in:</strong>
+<br><br>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,r,c,html&perline=10" />
+    <img src="https://skillicons.dev/icons?i=py,java,r&perline=10" />
+  </a>
+</p>
+<strong>Introductory knowledge:</strong>
+<br><br>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,html&perline=10" />
   </a>
 </p>
 
