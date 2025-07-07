@@ -1,9 +1,5 @@
 <h1 align="center">Hi, I'm Ayoze <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<p align="left">
-<a href= "https://www.linkedin.com/in/ayoze-ruano-alcántara-98367036b" target="blank"><img src="https://skillicons.dev/icons?i=linkedin&perline=10" /></a>
-  </p>
-<br>
 
 <h2>About me</h2>
 <!--Intro start-->
@@ -12,7 +8,11 @@
 🎓 Data Science and Engineering Student
 
 📫 Contact: **ayozeruanoalcantara@gmail.com**
-<!--Intro end-->
+</a> 
+
+<a href="https://www.linkedin.com/in/ayoze-ruano-alcántara-98367036b" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin&perline=10" />
+</a>
   </p>
 <br>
 
