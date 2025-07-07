@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ayoze <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="left">
-<a href= "https://www.linkedin.com/in/ayoze-ruano-alcántara-98367036b" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""/></a>
+<a href= "https://www.linkedin.com/in/ayoze-ruano-alcántara-98367036b" target="blank"><img src="https://skillicons.dev/icons?i=linkedin&perline=10" /></a>
   </p>
 <br>
 
