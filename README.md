@@ -23,54 +23,74 @@
 <strong>Procifient in:</strong>
 <br><br>
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,r&perline=10" />
+  <a href="https://go-skill-icons.vercel.app/">
+    <img
+      src="https://go-skill-icons.vercel.app/api/icons?i=python,java,r&titles=true"
+    />
   </a>
 </p>
 <strong>Introductory knowledge:</strong>
 <br><br>
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,html&perline=10" />
+  <a href="https://go-skill-icons.vercel.app/">
+    <img
+      src="https://go-skill-icons.vercel.app/api/icons?i=c,html,assembly"
+    />
   </a>
 </p>
 
 <!-- Frameworks & Libraries -->
 <h3>Frameworks & Libraries</h3>
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=sklearn,opencv&perline=10" />
+  <a href="https://go-skill-icons.vercel.app/">
+    <img
+      src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,matplotlib,scikitlearn,opencv,junit,plotly"
+    />
   </a>
 </p>
 
 <!-- Databases -->
 <h3>Databases</h3>
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=sqlite,mysql&perline=10" />
+  <a href="https://go-skill-icons.vercel.app/">
+    <img
+      src="https://go-skill-icons.vercel.app/api/icons?i=sqlite,oracle,mysql"
+    />
   </a>
 </p>
 
-<!-- Version Control & DevOps -->
-<h3>Version Control & DevOps</h3>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,git,maven&perline=10" />
-  </a>
-</p>
 
 <!-- IDEs & Tools -->
-<h3>IDEs & Tools</h3>
+<h3>Tools, Platforms & Environments</h3>
+<strong>Development Tools:</strong>
+<br><br>
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=idea,vscode,anaconda,pycharm,windows,linux&perline=10" />
+  <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=github,git,maven,api" />
+  </a>
+</p>
+<strong>IDEs & Editors:</strong>
+<br><br>
+<p align="left">
+  <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=idea,vscode,pycharm" />
+  </a>
+</p>
+<strong>Environments & Platforms:</strong>
+<br><br>
+<p align="left">
+  <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=anaconda,virtualbox,windows,centos,linux" />
+  </a>
+</p>
+<strong>Modeling, Markup & Communication:</strong>
+<br><br>
+<p align="left">
+  <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=uml,markdown,discord" />
   </a>
 </p>
 
-<!-- Other -->
-<h3>Other</h3>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=md,discord&perline=10" />
-  </a>
-</p>
+
+
+
