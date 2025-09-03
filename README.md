@@ -1,26 +1,18 @@
 <h1 align="center">Hi, I'm Ayoze <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-
 <h2>About me</h2>
-<!--Intro start-->
 
-<p align="left">
-🎓 Data Science and Engineering Student
+- 🎓 Currently studying **Data Science and Engineering** at **ULPGC (Universidad de Las Palmas de Gran Canaria)**
+- 🎯 Focused on **data engineering, AI, and automation**    
+- 🤝 Open to collaborating on projects related to **machine learning, process optimization, and data-driven applications**
 
-📫 Contact: **ayozeruanoalcantara@gmail.com**
-</a> 
-
-<a href="https://www.linkedin.com/in/ayoze-ruano-alcántara-98367036b" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin&perline=10" />
-</a>
-  </p>
-
+---
 
 <h2>My Skills Include</h2>
 
 <!-- Programming Languages -->
 <h3>Programming Languages</h3>
-<strong>Procifient in:</strong>
+<strong>Proficient in:</strong>
 <br><br>
 <p align="left">
   <a href="https://go-skill-icons.vercel.app/">
@@ -91,6 +83,15 @@
   </a>
 </p>
 
+---
 
+## 🚀 Featured Projects
+- [✈️ FlightDelays](https://github.com/ayozeruanoalc/flight-delays) – Modular platform in **Java** and **Python** that correlates flight delays with meteorological data using **asynchronous messaging (ActiveMQ)**, **SQLite persistence**, and a **UI for evaluating predictive models**.  
+- [💧 Global Water and Sanitation Analysis](https://github.com/ayozeruanoalc/analisis-disponibilidad-agua-y-saneamiento) – Worldwide analysis of access to water and sanitation using **R, R Markdown, and Shiny**. Includes an **interactive dashboard** and visualization of official datasets through maps and charts.
+
+---
+
+## 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayozeruanoalc)  [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:ayozeruanoalcantara@gmail.com)  
 
 
