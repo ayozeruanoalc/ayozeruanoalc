@@ -34,7 +34,7 @@ The system separates data ingestion, processing, persistence, and model evaluati
 **R | R Markdown | Shiny | Data Visualization**
 
 Worldwide analysis of access to water and sanitation using official datasets.  
-Includes an **interactive Shiny dashboard** with maps and visualizations to explore geographic and temporal patterns.
+Includes an **interactive dashboard** and visualization of official datasets through maps and charts.
 
 🔗 https://github.com/ayozeruanoalc/analisis-disponibilidad-agua-y-saneamiento
 
