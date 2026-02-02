@@ -18,8 +18,6 @@
 A scalable **book search engine** built over a large corpus from **Project Gutenberg**.  
 The project explores multiple backend architectures, evolving from a modular microservice-based design to a **distributed cluster** with in-memory index replication, asynchronous coordination, load balancing, and fault tolerance.
 
-Focused on **system architecture, concurrency, scalability, and performance benchmarking**.
-
 🔗 https://github.com/ayozeruanoalc/book-search-engine
 
 ### ✈️ FlightDelays
@@ -33,8 +31,7 @@ The system separates data ingestion, processing, persistence, and model evaluati
 ### 💧 Global Water and Sanitation Analysis
 **R | R Markdown | Shiny | Data Visualization**
 
-Worldwide analysis of access to water and sanitation using official datasets.  
-Includes an **interactive dashboard** and visualization of official datasets through maps and charts.
+Worldwide analysis of access to water and sanitation. Includes an **interactive dashboard** and visualization of official datasets through maps and charts.
 
 🔗 https://github.com/ayozeruanoalc/analisis-disponibilidad-agua-y-saneamiento
 
