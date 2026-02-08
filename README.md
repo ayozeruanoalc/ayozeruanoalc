@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Ayoze <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  Backend Systems · Data Engineering · Distributed Systems · ML Pipelines
+  Backend Systems · Data Engineering · Distributed Systems · Performance & ML Pipelines
 </p>
 
 <h2>About me</h2>
@@ -27,6 +27,16 @@ A modular platform that correlates flight delays with meteorological data using 
 The system separates data ingestion, processing, persistence, and model evaluation, and includes a **UI for comparing predictive models**.
 
 🔗 https://github.com/ayozeruanoalc/flight-delays
+
+### 🔢 Matrix Multiplication Benchmarks
+**Performance Analysis | Parallelism | GPU | Distributed Systems**
+
+A collection of **research-style benchmarking studies** analyzing matrix multiplication across multiple computational paradigms:
+sequential execution, cache optimization, parallelism, SIMD, GPU acceleration, and **distributed computing with Apache Spark**.
+
+The project focuses on **experimental design, scalability analysis, and performance trade-offs**, with results documented in **academic-style technical reports**.
+
+🔗 https://github.com/ayozeruanoalc/matrix-multiplication-benchmarks
 
 ### 💧 Global Water and Sanitation Analysis
 **R | R Markdown | Shiny | Data Visualization**
