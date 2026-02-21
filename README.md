@@ -28,6 +28,13 @@ The system separates data ingestion, processing, persistence, and model evaluati
 
 🔗 https://github.com/ayozeruanoalc/flight-delays
 
+### 💧 Global Water and Sanitation Analysis
+**R | R Markdown | Shiny | Data Visualization**
+
+Worldwide analysis of access to water and sanitation. Includes an **interactive dashboard** and visualization of official datasets through maps and charts.
+
+🔗 https://github.com/ayozeruanoalc/analisis-disponibilidad-agua-y-saneamiento
+
 ### 🔢 Matrix Multiplication Benchmarks
 **Performance Analysis | Parallelism | GPU | Distributed Systems**
 
@@ -37,13 +44,6 @@ sequential execution, cache optimization, parallelism, SIMD, GPU acceleration, a
 The project focuses on **experimental design, scalability analysis, and performance trade-offs**, with results documented in **academic-style technical reports**.
 
 🔗 https://github.com/ayozeruanoalc/matrix-multiplication-benchmarks
-
-### 💧 Global Water and Sanitation Analysis
-**R | R Markdown | Shiny | Data Visualization**
-
-Worldwide analysis of access to water and sanitation. Includes an **interactive dashboard** and visualization of official datasets through maps and charts.
-
-🔗 https://github.com/ayozeruanoalc/analisis-disponibilidad-agua-y-saneamiento
 
 ## Connect with Me
 
